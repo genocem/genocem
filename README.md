@@ -1,7 +1,6 @@
 # Hey, I'm Ahmed 👋
 
-Software engineering student obsessed with **DevOps, cloud infrastructure, and distributed systems**.  
-I build things that are automated, reproducible, and production-grade — not just "works on my machine".
+2nd year Software engineering student, I like setting up stuff in the cloud and automating them 
 
 ---
 
