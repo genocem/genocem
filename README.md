@@ -1,4 +1,4 @@
-# Hey, I'm Ahmed 👋
+# Hey, I'm Ahmed
 
 2nd year Software engineering student, I like setting up stuff in the cloud and automating them 
 
